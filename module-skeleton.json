@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-membership-commerce-flutter",
+  "capabilityKey": "planned:ecommerce:membership-commerce",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_membership_commerce_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/membership-commerce.md",
+  "presentationPlan": "projects/ecommerce/flutter/membership-commerce.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
